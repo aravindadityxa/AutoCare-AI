@@ -1,5 +1,3 @@
-MIT License
-
 Copyright (c) 2026
 Aravind Adityaa M
 Lohitha Sai K
